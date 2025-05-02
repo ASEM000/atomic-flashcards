@@ -16,9 +16,9 @@ Given atomic notes (defined by tags or in folders)
 
 And topic prompt:
 
-> How does the spectral theorem connect symmetry and positive definiteness?
+> Test my understanding of the spectral theorem.
 
-The plugin outputs flashcards like:
+The plugin generates flashcards like:
 
 Q: In what way does the spectral theorem connect the symmetry and positive definiteness of a matrix to its eigenvalue spectrum?
 
