@@ -1,0 +1,11 @@
+{
+	"id": "atomic-flashcards",
+	"name": "Atomic Flashcards",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Generate Flashcards using AI.",
+	"author": "Mahmoud Asem",
+	"authorUrl": "https://github.com/ASEM000",
+	"fundingUrl": "https://github.com/ASEM000",
+	"isDesktopOnly": false
+}
