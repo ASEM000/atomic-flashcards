@@ -1,10 +1,9 @@
 
-<img src="logo.svg"  style="width: 50%; margin: auto; display: block; align-items: center;" alt="Logo">
-
+![Logo](logo.svg)
 
 <br>
 
-This plugin creates flashcards by combining **atomic** notes - short notes capturing single ideas - into questions that test your understanding across concepts. Filter by tags, folders, and a prompt, and the plugin generates [Obsidian Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) flashcards using AI with footnotes to the source notes.
+This plugin creates flashcards using AI by combining **atomic** notes - short notes capturing single ideas - into questions that test your understanding across concepts. Filter by tags, folders, and a prompt, and the plugin generates [Obsidian Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) flashcards with footnotes to the source notes.
 
 **Example**
 
